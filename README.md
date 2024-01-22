@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ranjeetsharma0
 - 👀 I’m interested in Front-end web developing
-- 🌱 I’m currently learning HTML and CSS3 (self learner)
-- 💞️ I’m looking to collaborate on HTML and CSS coding
+- 🌱 I’m currently learning HTML CSS3 and Javascript (self learner)
+- 💞️ I’m looking to collaborate on HTML CSS and Javascript coding
 - 📫 How to reach me Email - iranjeetsharma218@gmail.com
 
 <!---
